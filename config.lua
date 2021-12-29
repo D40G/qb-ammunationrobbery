@@ -1,4 +1,5 @@
 Config = {}
+Config.MinimumAmmuRobberyPolice = 3
 
 Config.Locations = {
     ["main"] = {
